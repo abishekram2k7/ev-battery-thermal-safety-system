@@ -1,0 +1,8 @@
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.o
+*.map
+.DS_Store
